@@ -47,3 +47,4 @@ python app.py
 - pip
 "# laravel-python-flask-ml" 
 "# laravel-python-machine-learning" 
+"# laravel-python-machine-learning" 
