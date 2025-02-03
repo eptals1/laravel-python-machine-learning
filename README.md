@@ -46,3 +46,4 @@ python app.py
 - Python >= 3.8
 - pip
 "# laravel-python-flask-ml" 
+"# laravel-python-machine-learning" 
